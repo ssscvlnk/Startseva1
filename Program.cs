@@ -48,6 +48,7 @@ namespace Program
             int number = 250;
             byte number2 = (byte)(number+10);
             Console.WriteLine(number2);
+            Console.WriteLine()
         }
     }
 }
